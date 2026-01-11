@@ -34,7 +34,7 @@ The simulation integrates real-world environmental data from the NASA POWER API 
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/yourusername/solar-voltage-rise-study.git](https://github.com/yourusername/solar-voltage-rise-study.git)
+    git clone [https://github.com/chanu23UOM/Solar-Voltage-Rise-Impact-Study.git](https://github.com/yourusername/solar-voltage-rise-study.git)
     cd solar-voltage-rise-study
     ```
 
